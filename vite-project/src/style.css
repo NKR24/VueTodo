@@ -1,0 +1,9 @@
+body,
+input,
+a,
+h1,
+div,
+button {
+  all: unset;
+}
+
